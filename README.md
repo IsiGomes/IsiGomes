@@ -13,6 +13,45 @@
 - ⚡ Eu gosto de ler, seja um bom livro, mangá ou contos de terror e mistério, assim como assistir filmes, dançar, fazer roupas e jogar videogames! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
 
 ---
+
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Possuo conhecimento nas tecnologias:
+<table align="center"><tr><td valign="top" width="30%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,vite&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="30%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,nodejs,js&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="20%">
+
+### <div align="center"> Databases </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&perline=2" />
+</p>
+
+</td><td valign="top" width="20%">
+
+### <div align="center"> Ferramentas </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vscode,figma,flask&theme=dark&perline=2" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+
+---
 ### Vamos conversar? 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isigomes/)
